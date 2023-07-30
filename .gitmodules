@@ -1,0 +1,27 @@
+[submodule "git/uwuifier-vencord"]
+	path = git/uwuifier-vencord
+	url = https://github.com/exhq/uwuifier-vencord
+[submodule "git/vc-spotimbed"]
+	path = git/vc-spotimbed
+	url = https://codeberg.org/vap/vc-spotimbed
+[submodule "git/vc-message-logger-enhanced"]
+	path = git/vc-message-logger-enhanced
+	url = https://github.com/syncxv/vc-message-logger-enhanced
+[submodule "git/vencord-plugins-exhq"]
+	path = git/vencord-plugins-exhq
+	url = https://github.com/exhq/vencord-plugins
+[submodule "git/vc-gif-collections"]
+	path = git/vc-gif-collections
+	url = https://github.com/syncxv/vc-gif-collections
+[submodule "git/vencord-plugins-hypeddomi"]
+	path = git/vencord-plugins-hypeddomi
+	url = https://github.com/hypeddomi/vencord-plugins
+[submodule "git/betterbencordplugins"]
+	path = git/betterbencordplugins
+	url = https://github.com/mantikafasi/betterbencordplugins
+[submodule "git/venkordplugins"]
+	path = git/venkordplugins
+	url = https://github.com/voidfill/venkordplugins
+[submodule "git/vencord-cuteanimeboys"]
+	path = git/vencord-cuteanimeboys
+	url = https://github.com/shadiestgoat/vencord-cuteanimeboys
