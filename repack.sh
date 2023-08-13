@@ -9,7 +9,7 @@ cp -r git/vc-gif-collections dist
 cp -r git/vc-message-logger-enhanced dist
 
 ### vc-spotimbed
-cp -r git/vc-spotimbed dist
+# cp -r git/vc-spotimbed dist
 
 ### vencord-cuteanimeboys
 cp -r git/vencord-cuteanimeboys dist
